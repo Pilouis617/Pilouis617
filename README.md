@@ -1,21 +1,49 @@
-<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/header-static.svg"><img src="assets/header.svg" width="100%" alt="Pierre-Louis Benoit — Comprendre. Concevoir. Développer. BTS SIO · OPTION SLAM. @Pilouis617. LE CODE PREND FORME."></picture></p>
+<p align="center">
+  <img src="assets/header.svg" width="620" alt="Pierre-Louis Benoit — Comprendre. Concevoir. Développer. Étudiant en BTS SIO, option SLAM." />
+</p>
 
-<p align="center"><a href="#à-propos">À propos</a> &nbsp; / &nbsp; <a href="#compétences">Compétences</a> &nbsp; / &nbsp; <a href="#ma-démarche">Ma démarche</a> &nbsp; / &nbsp; <a href="https://github.com/Pilouis617?tab=repositories">Dépôts ↗</a></p>
+<p align="center">
+  <a href="#à-propos">À propos</a> &nbsp; / &nbsp;
+  <a href="#compétences">Compétences</a> &nbsp; / &nbsp;
+  <a href="#ma-démarche">Ma démarche</a> &nbsp; / &nbsp;
+  <a href="https://github.com/Pilouis617?tab=repositories">Dépôts ↗</a>
+</p>
 
-<p align="center"><a href="README-TEXTE.md">Lire la version texte sans animation</a> · <a href="https://github.com/Pilouis617/Pilouis617/raw/refs/heads/main/Presentation-Pierre-Louis.html">Télécharger la présentation interactive</a></p>
+## À propos
 
-<a id="à-propos"></a>
+**Pierre-Louis Benoit · Étudiant en BTS SIO, option SLAM.**
 
-<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/about-static.png"><img src="assets/about.gif" width="100%" alt="À propos. Pierre-Louis Benoit · Étudiant en BTS SIO, option SLAM. Je me forme au développement d’applications, de l’interface aux bases de données. Mon objectif : comprendre ce que je construis et rendre son utilisation simple pour les autres. Ce GitHub accompagne mon apprentissage : du code que j’écris, que je teste et que j’améliore au fil de ma formation."></picture></p>
+Je me forme au développement d’applications, de l’interface aux bases de données. Mon objectif : comprendre ce que je construis et rendre son utilisation simple pour les autres.
 
-<a id="compétences"></a>
+Ce GitHub accompagne mon apprentissage : du code que j’écris, que je teste et que j’améliore au fil de ma formation.
 
-<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/skills-static.png"><img src="assets/skills.gif" width="100%" alt="Compétences. Mon environnement d’apprentissage et de pratique. Domaine · Technologies · Ce que je travaille. Interfaces web · HTML · CSS · JavaScript · Structure, mise en page et interactions. Applications · Java · PHP · Logique métier et programmation orientée objet. Données · MySQL · SQL · Organisation et manipulation des données. Outils · Git · GitHub · Eclipse · XAMPP · Développement local et suivi des versions."></picture></p>
+## Compétences
 
-<a id="ma-démarche"></a>
+**Mon environnement d’apprentissage et de pratique.**
 
-<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/method-static.png"><img src="assets/method.gif" width="100%" alt="Ma démarche. 01 — Comprendre le besoin. Définir ce que l’application doit faire avant de commencer à coder. 02 — Construire avec clarté. Avancer par étapes, choisir des noms explicites et organiser le code pour pouvoir le relire. 03 — Tester et affiner. Vérifier le résultat, comprendre les erreurs et améliorer ce qui peut l’être."></picture></p>
+| Domaine | Technologies | Ce que je travaille |
+| :--- | :--- | :--- |
+| **Interfaces web** | HTML · CSS · JavaScript | Structure, mise en page et interactions |
+| **Applications** | Java · PHP | Logique métier et programmation orientée objet |
+| **Données** | MySQL · SQL | Organisation et manipulation des données |
+| **Outils** | Git · GitHub · Eclipse · XAMPP | Développement local et suivi des versions |
 
-<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/footer-static.png"><img src="assets/footer.gif" width="100%" alt="Un code lisible. Une intention claire. Pierre-Louis Benoit · @Pilouis617"></picture></p>
+## Ma démarche
 
-<p align="center"><a href="https://github.com/Pilouis617">@Pilouis617</a></p>
+### 01 — Comprendre le besoin
+Définir ce que l’application doit faire avant de commencer à coder.
+
+### 02 — Construire avec clarté
+Avancer par étapes, choisir des noms explicites et organiser le code pour pouvoir le relire.
+
+### 03 — Tester et affiner
+Vérifier le résultat, comprendre les erreurs et améliorer ce qui peut l’être.
+
+---
+
+<p align="center">
+  <strong>Un code lisible. Une intention claire.</strong><br>
+  <sub>Pierre-Louis Benoit &nbsp; · &nbsp; <a href="https://github.com/Pilouis617">@Pilouis617</a></sub>
+</p>
+
+<p align="center"><a href="https://github.com/Pilouis617/Pilouis617/raw/refs/heads/main/Presentation-Pierre-Louis.html">Télécharger la présentation interactive pour Windows</a></p>
