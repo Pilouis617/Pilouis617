@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Pierre-Louis Benoit — Développement d’applications</title>
+  <desc id="desc">BTS SIO, option SLAM. Composition graphique sombre, typographie ivoire et monogramme PL vert citron.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#272b2a" stroke-width="1"/></pattern>
+    <clipPath id="frame"><rect width="1200" height="440" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="440" fill="#111514"/>
+    <rect x="820" width="380" height="440" fill="url(#grid)"/>
+    <path d="M820 0V440" stroke="#323833"/>
+    <circle cx="64" cy="54" r="5" fill="#d5f77a"/>
+    <text x="82" y="60" fill="#d5f77a" font-size="15" font-family="Arial, sans-serif" letter-spacing="3">PIERRE-LOUIS BENOIT</text>
+    <text x="64" y="157" fill="#f3f2ea" font-size="68" font-family="Arial, sans-serif" font-weight="700" letter-spacing="-3">Comprendre.</text>
+    <text x="64" y="231" fill="#f3f2ea" font-size="68" font-family="Arial, sans-serif" font-weight="700" letter-spacing="-3">Concevoir.</text>
+    <text x="64" y="305" fill="#d5f77a" font-size="68" font-family="Arial, sans-serif" font-weight="700" letter-spacing="-3">Développer.</text>
+    <path d="M64 345H755" stroke="#394038"/>
+    <text x="64" y="385" fill="#bec5bc" font-size="17" font-family="Arial, sans-serif">BTS SIO · OPTION SLAM</text>
+    <text x="755" y="385" text-anchor="end" fill="#bec5bc" font-size="17" font-family="monospace">@Pilouis617</text>
+    <rect x="872" y="88" width="264" height="264" rx="48" fill="#d5f77a" transform="rotate(-8 1004 220)"/>
+    <g fill="none" stroke="#111514" stroke-width="19" stroke-linecap="square" stroke-linejoin="round">
+      <path d="M934 269V171H970Q1005 171 1005 204Q1005 233 970 233H934"/>
+      <path d="M1042 171V269H1081"/>
+    </g>
+    <text x="1005" y="407" text-anchor="middle" fill="#a1aa9e" font-size="12" font-family="monospace" letter-spacing="3">LE CODE PREND FORME.</text>
+  </g>
+</svg>
