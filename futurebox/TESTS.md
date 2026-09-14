@@ -1,6 +1,6 @@
 # Vérifier FutureBox
 
-Les contrôles ci-dessous sont prévus pour une base locale de test. Ils n’ont pas été exécutés lors de la préparation du projet.
+La syntaxe PHP et les 11 tests de fonctions ont réussi dans GitHub Actions. Les parcours applicatifs et visuels ci-dessous restent à exécuter avec une base locale de test.
 
 ## Syntaxe et fonctions
 

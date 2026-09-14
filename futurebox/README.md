@@ -82,4 +82,4 @@ php tests/run.php
 
 Ces tests ne nécessitent pas de connexion MySQL. Le parcours dans **TESTS.md** complète les tests avec les comptes, l’ouverture et les photos.
 
-Le code a été préparé sans environnement PHP/MySQL disponible pour l’exécuter : les tests et le rendu restent à vérifier sur une installation locale.
+La syntaxe PHP et les 11 vérifications de tests/run.php ont été validées par GitHub Actions. Le parcours complet avec MySQL et le rendu dans le navigateur restent à vérifier sur une installation locale.
