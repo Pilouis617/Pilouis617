@@ -1,0 +1,5 @@
+# Empêche l'accès HTTP aux fichiers internes lorsque le projet est sous htdocs.
+Options -Indexes
+<FilesMatch "^(config\.php|database\.sql|README\.md|TESTS\.md|\..*)$">
+    Require all denied
+</FilesMatch>

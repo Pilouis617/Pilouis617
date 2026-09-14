@@ -1,0 +1,20 @@
+name: FutureBox checks
+
+on:
+  push:
+    branches: [futurebox]
+    paths: ['futurebox/**', '.github/workflows/futurebox.yml']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  php:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Vérifier la syntaxe PHP
+        run: find futurebox -name '*.php' -print0 | xargs -0 -n1 php -l
+      - name: Tester les dates et la protection HTML
+        run: php futurebox/tests/run.php

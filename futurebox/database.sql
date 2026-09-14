@@ -1,0 +1,23 @@
+CREATE DATABASE IF NOT EXISTS futurebox CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE futurebox;
+
+CREATE TABLE IF NOT EXISTS users (
+    id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(60) NOT NULL,
+    email VARCHAR(190) NOT NULL UNIQUE,
+    password_hash VARCHAR(255) NOT NULL,
+    created_at BIGINT UNSIGNED NOT NULL
+) ENGINE=InnoDB;
+
+CREATE TABLE IF NOT EXISTS capsules (
+    id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    user_id INT UNSIGNED NOT NULL,
+    title VARCHAR(100) NOT NULL,
+    message TEXT NOT NULL,
+    open_at BIGINT UNSIGNED NOT NULL,
+    created_at BIGINT UNSIGNED NOT NULL,
+    photo MEDIUMBLOB NULL,
+    photo_mime VARCHAR(30) NULL,
+    CONSTRAINT fk_capsule_user FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE,
+    INDEX idx_user_open (user_id, open_at)
+) ENGINE=InnoDB;
