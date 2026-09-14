@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="620" height="92" viewBox="0 0 620 92"><rect width="620" height="92" rx="14" fill="#171a18"/><rect x="20" y="24" width="44" height="44" rx="12" fill="#293324"/><text x="42" y="52" text-anchor="middle" fill="#c6dfaa" font-family="Arial,sans-serif" font-size="18">PL</text><text x="85" y="43" fill="#eceee9" font-family="Arial,sans-serif" font-size="20">Pierre-Louis Benoit</text><text x="85" y="64" fill="#a3aca4" font-family="Arial,sans-serif" font-size="12">Comprendre. Concevoir. Développer.</text><circle cx="589" cy="46" r="3" fill="#c6dfaa"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="140" viewBox="0 0 840 140" role="img" aria-labelledby="title desc">
+<title id="title">Pierre-Louis Benoit</title><desc id="desc">BTS SIO, option SLAM. Comprendre. Concevoir. Développer.</desc>
+<style>
+@keyframes orbit{to{transform:rotate(360deg)}}
+.orbit{transform-origin:765px 70px;animation:orbit 4s linear infinite}
+@media(prefers-reduced-motion:reduce){.orbit{animation:none}}
+</style>
+<rect x=".5" y=".5" width="839" height="139" rx="16" fill="#121a19" stroke="#293830"/>
+<path d="M32 28V111" stroke="#bad39d" stroke-width="2"/>
+<text x="51" y="51" fill="#eff3e9" font-family="Arial,sans-serif" font-size="28" font-weight="600" letter-spacing="-.7">Pierre-Louis Benoit</text>
+<text x="52" y="80" fill="#bdd2ab" font-family="Arial,sans-serif" font-size="15">Comprendre. Concevoir. Développer.</text>
+<text x="52" y="111" fill="#9faea2" font-family="Arial,sans-serif" font-size="11" letter-spacing=".6">BTS SIO · OPTION SLAM</text>
+<text x="639" y="111" fill="#9faea2" font-family="Arial,sans-serif" font-size="11" text-anchor="end">@Pilouis617</text>
+<circle cx="765" cy="70" r="46" fill="none" stroke="#314333"/>
+<g class="orbit"><circle cx="765" cy="24" r="2.5" fill="#c4dfaa"/></g>
+<rect x="738" y="43" width="54" height="54" rx="16" fill="#22301f" stroke="#465e39"/>
+<text x="765" y="78" text-anchor="middle" fill="#d4e6c3" font-family="Arial,sans-serif" font-size="23">PL</text>
+</svg>

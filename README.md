@@ -1,15 +1,12 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/header-static.png">
-    <img src="assets/header.gif" width="840" alt="Pierre-Louis Benoit — Comprendre. Concevoir. Développer. BTS SIO, option SLAM.">
-  </picture>
+  <img src="assets/header.svg" width="840" alt="Pierre-Louis Benoit — BTS SIO, option SLAM. Comprendre. Concevoir. Développer.">
 </p>
 
 <p align="center">
-  <a href="#à-propos">À propos</a> &nbsp; / &nbsp;
-  <a href="#compétences">Compétences</a> &nbsp; / &nbsp;
-  <a href="#ma-démarche">Ma démarche</a> &nbsp; / &nbsp;
-  <a href="https://github.com/Pilouis617?tab=repositories">Dépôts ↗</a>
+  <a href="#à-propos"><b>À propos</b></a> &nbsp; · &nbsp;
+  <a href="#compétences"><b>Compétences</b></a> &nbsp; · &nbsp;
+  <a href="#ma-démarche"><b>Ma démarche</b></a> &nbsp; · &nbsp;
+  <a href="https://github.com/Pilouis617?tab=repositories"><b>Dépôts ↗</b></a>
 </p>
 
 ## À propos
