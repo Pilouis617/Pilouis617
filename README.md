@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/header.svg" width="620" alt="Pierre-Louis Benoit — Comprendre. Concevoir. Développer. Étudiant en BTS SIO, option SLAM." />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/header-static.png">
+    <img src="assets/header.gif" width="840" alt="Pierre-Louis Benoit — Comprendre. Concevoir. Développer. BTS SIO, option SLAM.">
+  </picture>
 </p>
 
 <p align="center">
@@ -45,5 +48,3 @@ Vérifier le résultat, comprendre les erreurs et améliorer ce qui peut l’êt
   <strong>Un code lisible. Une intention claire.</strong><br>
   <sub>Pierre-Louis Benoit &nbsp; · &nbsp; <a href="https://github.com/Pilouis617">@Pilouis617</a></sub>
 </p>
-
-<p align="center"><a href="https://github.com/Pilouis617/Pilouis617/raw/refs/heads/main/Presentation-Pierre-Louis.html">Télécharger la présentation interactive pour Windows</a></p>
